@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-cypress-test"
+    }
+  },
+  "defaultProject": "ng-cypress-test",
+  "cli": {
+    "analytics": false
+  }
 }
