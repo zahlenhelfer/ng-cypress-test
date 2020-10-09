@@ -9,3 +9,4 @@ jobs:
         with:
           browser: chrome
           headless: true
+          start: npx ng serve
